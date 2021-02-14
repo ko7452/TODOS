@@ -10,7 +10,7 @@ class TodoItemList extends Component {
       <div>
         <TodoItem text="안녕" />
         <TodoItem text="리액트" />
-        <TodoItem text="반가워" />{" "}
+        <TodoItem text="반가워" />
       </div>
     );
   }
